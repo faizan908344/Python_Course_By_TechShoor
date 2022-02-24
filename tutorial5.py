@@ -1,0 +1,10 @@
+statement = "MY NAME IS MUHAMMAD FAIZAN ARIF AND MY AGE IS 20"
+print(statement)
+print(len(statement))
+print(statement[0:48])
+print(statement[:48])
+print(statement[0:])
+print(statement[:])
+print(statement[5:30])
+print(statement[7:35:4])
+print(statement[1:30:2])
